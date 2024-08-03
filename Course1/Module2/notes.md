@@ -255,6 +255,6 @@ Data Integration:
 [Go to this GitHub repository](https://github.com/Starias22/IBM-Data-Analysis-Professional-Certificate/blob/main/Course1/Module2/summary.md)
 
 ### Hive
-![alt text](image-10.png)
+![alt text](./resources/hive.png)
 
 ![alt text](./resources/hive2.png)
