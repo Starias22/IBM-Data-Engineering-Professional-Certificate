@@ -40,7 +40,7 @@
 ### Viewpoints: Advice to Aspiring Data Engineers
 
 - Practice
-- Shere knowledge with peers
+- Share knowledge with peers
 - Share codes on GitHub
 - Write articles on LinkedIn
 - Work hard
