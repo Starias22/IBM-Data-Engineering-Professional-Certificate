@@ -86,9 +86,7 @@ Data Store= Data Repository
 #### Considerations when choosing a data repository
 
 - Type of the data: structured, semi-structured or unstructured
-- Volume of data
-![alt text](image-9.png)
-    
+- Volume of data  
 - Intended use of data
     - Number of transactions
     - Requency of update
