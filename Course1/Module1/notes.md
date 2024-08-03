@@ -11,7 +11,7 @@
 2. The efficiency with which we acess the data when we need it
 - That is in short the job of a Data Engineer: Data Accuracy and Efficient Acessibility
 - Huge demand of the Data Engineering job:
- - Dice Tech Job Report of 2020 lists data engineering as the fastest-growing tech occupation with an annual growth of 50%
+- Dice Tech Job Report of 2020 lists data engineering as the fastest-growing tech occupation with an annual growth of 50%
 
  ### Modern Data Ecosystem
 
