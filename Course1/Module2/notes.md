@@ -68,7 +68,7 @@ It includes processes such as Extract Transform Load(ETL) and Extract Load Trans
     - to visualize data in real time ad pre-defined schedule
     - to drag and drop products; that do not require programming
 
-### Data types
+### Data Types
 
 Data can be categorized by their structures
 

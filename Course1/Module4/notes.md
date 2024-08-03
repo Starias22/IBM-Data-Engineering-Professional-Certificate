@@ -33,11 +33,11 @@
 ![alt text](./resources/coding_background2.png)
 
 
-### Viewpoints: What Do Employers Look for in a Data Engineer
+## Viewpoints: What Do Employers Look for in a Data Engineer
 ![alt text](./resources/viewpoints.png)
 
 ![alt text](./resources/viewpoints2.png)
-### Viewpoints: Advice to Aspiring Data Engineers
+## Viewpoints: Advice to Aspiring Data Engineers
 
 - Practice
 - Share knowledge with peers

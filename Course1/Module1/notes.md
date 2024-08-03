@@ -116,7 +116,7 @@ Evolution in Data Engineering over past couples of decades
 - Various NoSQL databases and other data repositories, comparing to past years where only relational databases where available
 - Evolution of IoT and API feeds
 
-## Responsabilities and Skillsets of a Data Engineers
+## Responsabilities and Skillsets of a Data Engineer
 
 ### Responsabilities
 
