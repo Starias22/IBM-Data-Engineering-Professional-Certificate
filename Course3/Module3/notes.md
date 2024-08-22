@@ -1,4 +1,4 @@
-# Module 3: Python Coding Practices and Packing Concepts
+# Module 3: Python Coding Practices and Packaging Concepts
 
 ## Python Style Guide and Coding Practices
 
